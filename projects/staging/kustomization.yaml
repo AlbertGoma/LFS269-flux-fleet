@@ -6,4 +6,4 @@ resources:
 
 patches:
   - path: facebooc-deploy-kustomization.yaml
-#  - path: instavote-deploy-kustomization.yaml
+  - path: instavote-deploy-kustomization.yaml
